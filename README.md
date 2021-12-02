@@ -3,7 +3,7 @@
 ### Welcome to my GitHub! 👋
 
 - 🔭 Physicist/Systems Analyst
-- 📚 MSc in Physics and Information Theory. Currently at a Bachelor's of Electronics and Telecommunications Engineer at Universidade Federal de Uberlândia.
+- 📚 MSc in Physics and Information Theory. Currently majoring in Electronics and Telecommunications Engineer at Universidade Federal de Uberlândia.
 - 💻 Intern at Algar Telecom
 - 👨‍💻 Learning Java.
 
