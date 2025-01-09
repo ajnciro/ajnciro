@@ -2,10 +2,8 @@
 ## Howdy. I am Ciro!
 ### Welcome to my GitHub! 👋
 
-- 🔭 Physicist/Systems Analyst
+- 🔭 Physicist/Data Scientist
 - 📚 MSc in Physics and Information Theory (Complexity and Automata). Currently majoring in Electronics and Telecommunications Engineering.
-- 💻 Intern at Algar Telecom
-- 👨‍💻 Learning Java.
 
 ##
 
